@@ -1,0 +1,7 @@
+path: ../watermark
+train: train/images/
+val: train/images/
+test: test/images/
+
+names:
+    0: watermark
